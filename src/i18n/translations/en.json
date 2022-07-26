@@ -1,0 +1,8 @@
+{
+  "translation": {
+    "welcome": "Welcome to the best webapp in the world",
+    "seleteYourLanguage": "Select your language",
+    "whereYouCan": "where you can find anything you want",
+    "title": "Simple i18n test"
+  }
+}
